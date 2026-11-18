@@ -2,7 +2,7 @@
   "$schema": "https://config.yagsl.com/schemas/swervedrive.json",
   "gyro": {
     "type": "pigeon2_can",
-    "id": 5,
+    "id": 0,
     "canbus": ""
   },
   "gyroAxis": "yaw",
